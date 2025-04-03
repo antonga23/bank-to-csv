@@ -1,0 +1,971 @@
+15
+[[26,["noop"]]]40856
+[[27,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/swift-csv-prod/databases/(default)/documents/files/qL9cLwOJo7CznbDkzYNz",
+      "fields": {
+        "batchUid": {
+          "stringValue": "hJgj602ScXVRUQHej5ig"
+        },
+        "pageCount": {
+          "integerValue": "10"
+        },
+        "userUid": {
+          "stringValue": "VpHMsEyzzNTxqdfGUm0wqlALdA23"
+        },
+        "isSensitive": {
+          "booleanValue": false
+        },
+        "uploadDate": {
+          "timestampValue": "2025-03-20T13:05:45.379Z"
+        },
+        "docparserDocID": {
+          "stringValue": "3a364dd83765d5798fdbe7f30c217a33"
+        },
+        "countryCode": {
+          "stringValue": "ZA"
+        },
+        "fileName": {
+          "stringValue": "january-2020-statement.pdf"
+        },
+        "lastAdminUpdateUserUid": {
+          "nullValue": null
+        },
+        "parserId": {
+          "stringValue": "evdlffljcsxk"
+        },
+        "userName": {
+          "stringValue": "Marketing vboglobal"
+        },
+        "uid": {
+          "stringValue": "qL9cLwOJo7CznbDkzYNz"
+        },
+        "parserDisplay": {
+          "stringValue": "ABSA"
+        },
+        "isBatch": {
+          "booleanValue": false
+        },
+        "healthCheck": {
+          "mapValue": {
+            "fields": {
+              "errors": {
+                "arrayValue": {
+                  "values": [
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "21845.230"
+                          },
+                          "row": {
+                            "integerValue": "3"
+                          },
+                          "message": {
+                            "stringValue": "The current total [2184523.000] does not match the sum of transaction amount [-15.000] plus the previous total [21860.230]"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "4"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "value": {
+                            "stringValue": "2184463.010"
+                          },
+                          "message": {
+                            "stringValue": "The current total [21785.240] does not match the sum of transaction amount [-59.990] plus the previous total [2184523.000]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "row": {
+                            "integerValue": "14"
+                          },
+                          "value": {
+                            "stringValue": "20772.400"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "message": {
+                            "stringValue": "The current total [2077240.000] does not match the sum of transaction amount [-15.900] plus the previous total [20788.300]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "2077154.610"
+                          },
+                          "message": {
+                            "stringValue": "The current total [20687.010] does not match the sum of transaction amount [-85.390] plus the previous total [2077240.000]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "row": {
+                            "integerValue": "15"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "20392.950"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [2039295.000] does not match the sum of transaction amount [-294.060] plus the previous total [20687.010]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "row": {
+                            "integerValue": "16"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "17"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "value": {
+                            "stringValue": "2039195.000"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [20292.950] does not match the sum of transaction amount [-100.000] plus the previous total [2039295.000]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "14144.350"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "row": {
+                            "integerValue": "36"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "message": {
+                            "stringValue": "The current total [1414435.000] does not match the sum of transaction amount [-150.000] plus the previous total [14294.350]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "1412185.000"
+                          },
+                          "row": {
+                            "integerValue": "37"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [14121.850] does not match the sum of transaction amount [-2250.000] plus the previous total [1414435.000]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "message": {
+                            "stringValue": "The current total [1399298.000] does not match the sum of transaction amount [-41.500] plus the previous total [14034.480]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "row": {
+                            "integerValue": "39"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "value": {
+                            "stringValue": "13992.980"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [13693.980] does not match the sum of transaction amount [-299.000] plus the previous total [1399298.000]"
+                          },
+                          "value": {
+                            "stringValue": "1398999.000"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "row": {
+                            "integerValue": "40"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "row": {
+                            "integerValue": "43"
+                          },
+                          "value": {
+                            "stringValue": "13499.490"
+                          },
+                          "message": {
+                            "stringValue": "The current total [3499.490] does not match the sum of transaction amount [-54.500] plus the previous total [13553.990]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "message": {
+                            "stringValue": "The current total [348049.000] does not match the sum of transaction amount [-19.000] plus the previous total [3499.490]"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "row": {
+                            "integerValue": "44"
+                          },
+                          "value": {
+                            "stringValue": "3480.490"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "45"
+                          },
+                          "value": {
+                            "stringValue": "347984.000"
+                          },
+                          "message": {
+                            "stringValue": "The current total [3415.490] does not match the sum of transaction amount [-65.000] plus the previous total [348049.000]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "row": {
+                            "integerValue": "46"
+                          },
+                          "value": {
+                            "stringValue": "-4084.510"
+                          },
+                          "message": {
+                            "stringValue": "The current total [591549.000] does not match the sum of transaction amount [-7500.000] plus the previous total [3415.490]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "594966.000"
+                          },
+                          "row": {
+                            "integerValue": "47"
+                          },
+                          "message": {
+                            "stringValue": "The current total [933249.000] does not match the sum of transaction amount [3417.000] plus the previous total [591549.000]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "row": {
+                            "integerValue": "48"
+                          },
+                          "message": {
+                            "stringValue": "The current total [923249.000] does not match the sum of transaction amount [-100.000] plus the previous total [933249.000]"
+                          },
+                          "value": {
+                            "stringValue": "933149.000"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "923229.000"
+                          },
+                          "row": {
+                            "integerValue": "49"
+                          },
+                          "message": {
+                            "stringValue": "The current total [921249.000] does not match the sum of transaction amount [-20.000] plus the previous total [923249.000]"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "50"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "value": {
+                            "stringValue": "921204.010"
+                          },
+                          "message": {
+                            "stringValue": "The current total [9167.500] does not match the sum of transaction amount [-44.990] plus the previous total [921249.000]"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "8135.500"
+                          },
+                          "message": {
+                            "stringValue": "The current total [813550.000] does not match the sum of transaction amount [-33.000] plus the previous total [8168.500]"
+                          },
+                          "row": {
+                            "integerValue": "52"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [7998.080] does not match the sum of transaction amount [-137.420] plus the previous total [813550.000]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "value": {
+                            "stringValue": "813412.580"
+                          },
+                          "row": {
+                            "integerValue": "53"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "message": {
+                            "stringValue": "The current total [7935.180] does not match the sum of transaction amount [-6290.000] plus the previous total [7998.080]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "row": {
+                            "integerValue": "54"
+                          },
+                          "value": {
+                            "stringValue": "1708.080"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "value": {
+                            "stringValue": "7710.610"
+                          },
+                          "row": {
+                            "integerValue": "59"
+                          },
+                          "message": {
+                            "stringValue": "The current total [771061.000] does not match the sum of transaction amount [-26.000] plus the previous total [7736.610]"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "771011.290"
+                          },
+                          "row": {
+                            "integerValue": "60"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [766090.000] does not match the sum of transaction amount [-49.710] plus the previous total [771061.000]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "61"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "value": {
+                            "stringValue": "766060.100"
+                          },
+                          "message": {
+                            "stringValue": "The current total [7631.000] does not match the sum of transaction amount [-29.900] plus the previous total [766090.000]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "row": {
+                            "integerValue": "63"
+                          },
+                          "message": {
+                            "stringValue": "The current total [758200.000] does not match the sum of transaction amount [-25.000] plus the previous total [7607.000]"
+                          },
+                          "value": {
+                            "stringValue": "7582.000"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "value": {
+                            "stringValue": "758080.100"
+                          },
+                          "row": {
+                            "integerValue": "64"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "message": {
+                            "stringValue": "The current total [746210.000] does not match the sum of transaction amount [-119.900] plus the previous total [758200.000]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "746194.820"
+                          },
+                          "row": {
+                            "integerValue": "65"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [7446.920] does not match the sum of transaction amount [-15.180] plus the previous total [746210.000]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "69"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [727292.000] does not match the sum of transaction amount [-24.000] plus the previous total [7296.920]"
+                          },
+                          "value": {
+                            "stringValue": "7272.920"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "row": {
+                            "integerValue": "70"
+                          },
+                          "value": {
+                            "stringValue": "727268.000"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [7248.920] does not match the sum of transaction amount [-24.000] plus the previous total [727292.000]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "value": {
+                            "stringValue": "5715.360"
+                          },
+                          "row": {
+                            "integerValue": "88"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [571536.000] does not match the sum of transaction amount [-43.000] plus the previous total [5758.360]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "89"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "value": {
+                            "stringValue": "571511.000"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [5690.360] does not match the sum of transaction amount [-25.000] plus the previous total [571536.000]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [5611.150] does not match the sum of transaction amount [-5521.000] plus the previous total [5666.360]"
+                          },
+                          "row": {
+                            "integerValue": "91"
+                          },
+                          "value": {
+                            "stringValue": "145.360"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "value": {
+                            "stringValue": "5537.150"
+                          },
+                          "row": {
+                            "integerValue": "93"
+                          },
+                          "message": {
+                            "stringValue": "The current total [553715.000] does not match the sum of transaction amount [-24.000] plus the previous total [5561.150]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "94"
+                          },
+                          "value": {
+                            "stringValue": "553691.000"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [5513.150] does not match the sum of transaction amount [-24.000] plus the previous total [553715.000]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "97"
+                          },
+                          "message": {
+                            "stringValue": "The current total [497285.000] does not match the sum of transaction amount [-496.300] plus the previous total [5469.150]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "value": {
+                            "stringValue": "4972.850"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "98"
+                          },
+                          "message": {
+                            "stringValue": "The current total [487285.000] does not match the sum of transaction amount [-100.000] plus the previous total [497285.000]"
+                          },
+                          "value": {
+                            "stringValue": "497185.000"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "value": {
+                            "stringValue": "487257.200"
+                          },
+                          "row": {
+                            "integerValue": "99"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "message": {
+                            "stringValue": "The current total [4845.050] does not match the sum of transaction amount [-27.800] plus the previous total [487285.000]"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "103"
+                          },
+                          "message": {
+                            "stringValue": "The current total [4683.150] does not match the sum of transaction amount [-6290.000] plus the previous total [4746.050]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "value": {
+                            "stringValue": "-1543.950"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "109"
+                          },
+                          "message": {
+                            "stringValue": "The current total [361225.000] does not match the sum of transaction amount [-872.000] plus the previous total [4484.250]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "value": {
+                            "stringValue": "3612.250"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "110"
+                          },
+                          "message": {
+                            "stringValue": "The current total [351225.000] does not match the sum of transaction amount [-100.000] plus the previous total [361225.000]"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          },
+                          "value": {
+                            "stringValue": "361125.000"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "111"
+                          },
+                          "message": {
+                            "stringValue": "The current total [3452.260] does not match the sum of transaction amount [-59.990] plus the previous total [351225.000]"
+                          },
+                          "value": {
+                            "stringValue": "351165.010"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedRunningTotal"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "mapValue": {
+                        "fields": {
+                          "row": {
+                            "integerValue": "123"
+                          },
+                          "message": {
+                            "stringValue": "The final total [3065.860] does not match the sum of transaction amounts [-38998.860] plus the opening total [21917.230]"
+                          },
+                          "value": {
+                            "stringValue": "-17081.630"
+                          },
+                          "column": {
+                            "stringValue": "total"
+                          },
+                          "type": {
+                            "stringValue": "MismatchedTotal"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "errorCount": {
+                "integerValue": "42"
+              },
+              "healthy": {
+                "booleanValue": false
+              }
+            }
+          }
+        },
+        "lastAdminUpdateUserName": {
+          "nullValue": null
+        },
+        "downloadUrl": {
+          "stringValue": "https://firebasestorage.googleapis.com/v0/b/swift-csv-prod.appspot.com/o/Statements%2FVpHMsEyzzNTxqdfGUm0wqlALdA23%2Fjanuary-2020-statement%20qL9cLwOJo7CznbDkzYNz.pdf?alt=media&token=c899ca7e-ed91-491e-bee4-c8a7fe9ae882"
+        },
+        "xlsxDownloadLink": {
+          "stringValue": "https://storage.googleapis.com/swift-csv-prod.appspot.com/xlsx%2FVpHMsEyzzNTxqdfGUm0wqlALdA23%2Fjanuary-2020-statement%20qL9cLwOJo7CznbDkzYNz.pdf.xlsx%20qL9cLwOJo7CznbDkzYNz?GoogleAccessId=firebase-adminsdk-2or00%40swift-csv-prod.iam.gserviceaccount.com&Expires=16730323200&Signature=tgKhnz33xAMOm1VyntiQQOns0NhyuRDlUhic445uMwFwbXk342mgWK%2BneL4gzMQbkvpB%2BIx0jUzml%2FECtRdHPnt9pze7vb7tjxur0Yn3rrwPaKnuekMPOURhQAdbWs7XIA0Q286xtODN%2BWjjmERmvevD6QatK5v%2FSmicJYB5bA6h8jADUfib%2FJZ35Ot0LMvDMcRUR25d4zanQDRFT%2FRIy0kOPHZCNqUHiJZA%2BsGv%2Fb8hLKrsTDlvmMSUK7tidjyweU5te2%2BGkBArv4p6E1d9%2BkP5igmqSKvwM0bf6nBelfQ9IO80Aor%2Fxjd%2F%2FPAXCc2Bj0ExlOPQ%2Bh%2F0yM7anmbDTw%3D%3D"
+        },
+        "csvDownloadLink": {
+          "stringValue": "https://storage.googleapis.com/swift-csv-prod.appspot.com/csv%2FVpHMsEyzzNTxqdfGUm0wqlALdA23%2Fjanuary-2020-statement%20qL9cLwOJo7CznbDkzYNz.pdf.csv%20qL9cLwOJo7CznbDkzYNz?GoogleAccessId=firebase-adminsdk-2or00%40swift-csv-prod.iam.gserviceaccount.com&Expires=16730323200&Signature=Ix6O2C6hLG4kRRlVwsPzfCSwqpUkuDq09ygNkTY1ZLnYzHjhR7%2Bhtj29wSZIX8w4MYsntvLXy37m9LzI7755IYQetMrdYbXKTrB632uMpCAf%2Fv2SOhMNAtqzFB8rvCUaEIIE9TxPCRlmTGUoObbwnenUNg3C2mQsC87qknOKDVpyQ5GNETUF5ME1Fxz%2BSU6DiAzipNZXiXIknXe%2FRiT5cRymFT47WYK%2FaDG41TivX%2FzkfIxUyDXOKOpcd3ojYR89PLmCFErUZi%2FAz24oCCY4DRwiW6G4owfKo5t5GrH3GAmhljHC22PE19X7Py5aUdTOjfrxrjqmGtEUrjrlslEymg%3D%3D"
+        }
+      },
+      "createTime": "2025-03-20T13:05:46.115887Z",
+      "updateTime": "2025-03-20T13:06:26.717103Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]]]
